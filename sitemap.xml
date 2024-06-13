@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://zdg5.github.io/academic-site/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://zdg5.github.io/academic-site/</loc>
+</url>
+<url>
+<loc>https://zdg5.github.io/academic-site/about.html</loc>
+<lastmod>2024-06-01T16:04:21-07:00</lastmod>
+<image:image>
+<image:loc>https://zdg5.github.io/academic-site/media/posts/1/IMG_3576-cropped.jpg</image:loc>
+<image:title><![CDATA[A picture of Zak]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://zdg5.github.io/academic-site/cv.html</loc>
+<lastmod>2024-06-01T16:33:17-07:00</lastmod>
+</url>
+<url>
+<loc>https://zdg5.github.io/academic-site/digital-projects.html</loc>
+<lastmod>2024-05-14T14:42:31-07:00</lastmod>
+</url>
+<url>
+<loc>https://zdg5.github.io/academic-site/teaching-philosophy.html</loc>
+<lastmod>2024-06-01T16:06:06-07:00</lastmod>
+</url>
+</urlset>

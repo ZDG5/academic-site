@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://zdg5.github.io/academic-site/sitemap.xml
