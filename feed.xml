@@ -3,142 +3,49 @@
     <title>Zakarias D. Gram</title>
     <link href="https://zdg5.github.io/academic-site/feed.xml" rel="self" />
     <link href="https://zdg5.github.io/academic-site" />
-    <updated>2024-06-14T12:55:19-07:00</updated>
+    <updated>2024-06-14T13:32:48-07:00</updated>
     <author>
         <name>Zakarias Gram</name>
     </author>
     <id>https://zdg5.github.io/academic-site</id>
 
     <entry>
-        <title>CV</title>
+        <title>Digital Humanities</title>
         <author>
             <name>Zakarias Gram</name>
         </author>
-        <link href="https://zdg5.github.io/academic-site/cv-2.html"/>
-        <id>https://zdg5.github.io/academic-site/cv-2.html</id>
+        <link href="https://zdg5.github.io/academic-site/digital-humanities.html"/>
+        <id>https://zdg5.github.io/academic-site/digital-humanities.html</id>
 
-        <updated>2024-06-14T11:18:01-07:00</updated>
+        <updated>2024-06-14T13:05:38-07:00</updated>
             <summary>
                 <![CDATA[
-                    Education Degrees Expected 2026&nbsp; Ph.D. Classical Studies, UCLA &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advisor: David Blank 2020&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;M.Phil. Classical Studies, University of Cambridge &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&hellip;
+                    Learn Greek and Latin Gospel of Thomas Online Museum of the Fasti
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 
-  <div class="post__toc">
-    <h3>Table of Contents</h3>
-    <ul>
-      <li><a href="#education">Education</a></li><li><a href="#research-interests">Research Interests</a></li><li><a href="#publications">Publications</a></li><li><a href="#conference-presentations">Conference Presentations</a></li><li><a href="#digital-projects">Digital Projects</a></li><li><a href="#teaching">Teaching</a></li><li><a href="#service">Service</a></li><li><a href="#awards-and-recognition">Awards and Recognition</a></li><li><a href="#language-proficiency">Language Proficiency</a></li>
-    </ul>
-  </div>
-  
+    <figure class="post__image post__image--center">
+      <a href="https://www.learngreekandlatin.com/" target="_blank">
+        <img loading="lazy" src="https://zdg5.github.io/academic-site/media/posts/7/Symbol.jpg" height="118" width="155" alt=""  sizes="100vw" srcset="https://zdg5.github.io/academic-site/media/posts/7/responsive/Symbol-xs.jpg 300w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Symbol-sm.jpg 480w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Symbol-md.jpg 768w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Symbol-lg.jpg 1024w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Symbol-xl.jpg 1360w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Symbol-2xl.jpg 1600w">
+      </a>
+      <figcaption>Learn Greek and Latin</figcaption>
+    </figure>
 
-    <h2 id="education">
-      Education
-    </h2>
+    <figure class="post__image post__image--center">
+      <a href="https://gospelofthomas45.wordpress.com/" target="_blank">
+        <img loading="lazy" src="https://zdg5.github.io/academic-site/media/posts/7/nag_hammadi_codex_ii-scaled-e1626377469282-1-123-2.png" height="118" width="155" alt=""  sizes="100vw" srcset="https://zdg5.github.io/academic-site/media/posts/7/responsive/nag_hammadi_codex_ii-scaled-e1626377469282-1-123-2-xs.png 300w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/nag_hammadi_codex_ii-scaled-e1626377469282-1-123-2-sm.png 480w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/nag_hammadi_codex_ii-scaled-e1626377469282-1-123-2-md.png 768w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/nag_hammadi_codex_ii-scaled-e1626377469282-1-123-2-lg.png 1024w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/nag_hammadi_codex_ii-scaled-e1626377469282-1-123-2-xl.png 1360w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/nag_hammadi_codex_ii-scaled-e1626377469282-1-123-2-2xl.png 1600w">
+      </a>
+      <figcaption>Gospel of Thomas Online</figcaption>
+    </figure>
 
-  <p>
-    <b>Degrees</b><br>
-  </p>
-
-  <p>
-    Expected 2026&nbsp; Ph.D. Classical Studies, UCLA<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Advisor: David Blank<br><br>2020&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;M.Phil. Classical Studies, University of Cambridge<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Thesis:&nbsp;“Gregory of Nyssa’s Linguistic Argumentation in Ad Ablabium”<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Advisor: Myrto Hatzimichali<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i> &nbsp;Pass with distinction</i><br>
-  </p>
-
-  <p>
-    2019&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;B.A. Classical Studies, Brigham Young University<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<i>cum laude</i><br><br><b>Additional Training</b><br><br>Expected 2026 Graduate Certificate in Digital Humanities, UCLA
-  </p>
-
-    <h2 id="research-interests">
-      Research Interests
-    </h2>
-
-  <p>
-    Commentaries, Early Christianity, Platonism, Digital Humanities, Women in the Greco-Roman philosophical tradition&nbsp;
-  </p>
-
-    <h2 id="publications">
-      Publications
-    </h2>
-
-  <p>
-    <b>Articles</b>
-  </p>
-
-  <p>
-    2021&nbsp; &nbsp; &nbsp;With Lincoln H. Blumell and Kerry Hull. “Eine griechische Votivschrift in der&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tenri University Sankōkan Museum.” <i>Journal of Epigraphic Studies</i>&nbsp;4: 91–98.
-  </p>
-
-  <p>
-    <b>Book Reviews</b>
-  </p>
-
-  <p>
-    2018&nbsp; &nbsp; &nbsp;With Lincoln H. Blumell. Book review of Dionysios von Alexandria: De Natura&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;(περὶ φύσεως) Übersetzung, Kommentar und Würdigung, mit einer Einleitung&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;zur Geschichte des Epikureismus in Alexandria by Kilian J. Fleischer. <i>Journal&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;of Hellenic Studies</i> 138: 299–300.&nbsp;
-  </p>
-
-    <h2 id="conference-presentations">
-      Conference Presentations
-    </h2>
-
-  <p>
-    2024&nbsp; &nbsp; &nbsp;“Speaking of God: A Reevaluation of Gregory of Nyssa’s Ad Ablabium.”&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;North American Patristics Society (NAPS) Annual Conference: Chicago, Illinois.
-  </p>
-
-  <p>
-    2023&nbsp; &nbsp; &nbsp;“Response Paper, Religion and Philosophy Panel.” UCLA Graduate Student
-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Conference 2023: Knowing and Knowing Nothing: Learning, Teaching, and
-<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Apprenticeship in the Ancient Mediterranean: Los Angeles, California.&nbsp;<br>&nbsp;&nbsp;
-  </p>
-
-  <p>
-    2023
-  </p>
-
-  <p>
-    2023
-  </p>
-
-  <p>
-    2022
-  </p>
-
-  <p>
-    2022
-  </p>
-
-  <p>
-    2021
-  </p>
-
-  <p>
-    2019
-  </p>
-
-  <p>
-    2018
-  </p>
-
-    <h2 id="digital-projects">
-      Digital Projects
-    </h2>
-
-    <h2 id="teaching">
-      Teaching
-    </h2>
-
-    <h2 id="service">
-      Service
-    </h2>
-
-    <h2 id="awards-and-recognition">
-      Awards and Recognition
-    </h2>
-
-    <h2 id="language-proficiency">
-      Language Proficiency
-    </h2>
+    <figure class="post__image post__image--center">
+      <a href="https://sketchfab.com/3d-models/museum-of-the-fasti-145146b125c14fc1a123e2c091374ad0" target="_blank">
+        <img loading="lazy" src="https://zdg5.github.io/academic-site/media/posts/7/Untitled.png" height="118" width="155" alt=""  sizes="100vw" srcset="https://zdg5.github.io/academic-site/media/posts/7/responsive/Untitled-xs.png 300w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Untitled-sm.png 480w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Untitled-md.png 768w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Untitled-lg.png 1024w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Untitled-xl.png 1360w ,https://zdg5.github.io/academic-site/media/posts/7/responsive/Untitled-2xl.png 1600w">
+      </a>
+      <figcaption>Museum of the Fasti</figcaption>
+    </figure>
             ]]>
         </content>
     </entry>
@@ -153,17 +60,26 @@
         <updated>2024-06-01T15:47:55-07:00</updated>
             <summary>
                 <![CDATA[
-                    My primary goal as an educator is to help my students learn how to think, speak, and write critically. In addition, I seek to engender in all my students a love of learning and specifically an appreciation for the field of Classics. To achieve these&hellip;
+                    While the value of the humanities has been repeatedly questioned in recent years, I believe that the field of classics is worth studying for its own good. More significantly, the most important benefit of an education in classics is learning to think critically. In a&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>My primary goal as an educator is to help my students learn how to think, speak, and write critically. In addition, I seek to engender in all my students a love of learning and specifically an appreciation for the field of Classics. To achieve these goals, I teach through using several approaches, including visualizations, small group work, scaffolded writing assignments, etc. Primarily, though, I teach in a highly interactive discussion format, which I loosely structure and plan, but is still responsive to student interests and needs.</p>
-<p>Presumably like everyone else pursuing a PhD in the humanities, I’ve often been asked what use an advanced degree in classics might have, or even the use of a liberal arts education as a whole. While I personally believe classics to be worth studying for its own good, the most important benefit of an education in classics, in my opinion, is learning the think critically. In a world filled with misinformation and polarizing views, the ability to consider carefully and dissect information with which one is presented is vital for our own good, as well as our society’s. As I teach, I intentionally bring in contrasting viewpoints to encourage discussion among students, and I challenge the assumptions and conclusions that my students express in discussion. Since this is done in a safe environment and in a kind manner, I allow my students to reflect about their own mental processes and model the kind of thinking they can use outside the classroom.</p>
+                <p>While the value of the humanities has been repeatedly questioned in recent years, I believe that the field of classics is worth studying for its own good. More significantly, the most important benefit of an education in classics is learning to think critically. In a world filled with misinformation and polarizing views, the ability to consider carefully and dissect information with which one is presented is vital for our own good, as well as our society’s.</p>
+<p>My primary goal as an educator is to help my students learn how to think, speak, and write critically. In addition, I seek to engender in all my students a love of learning, critical thinking, and specifically an appreciation for the field of Classics. To achieve these goals, I teach through using several approaches, including visualizations, small group work, and scaffolded writing assignments. Primarily, though, I teach in a highly interactive discussion format, which I design for maximum flexibility to respond to student interests and needs. As I teach, I intentionally bring in contrasting viewpoints to encourage discussion among students, and I challenge the assumptions and conclusions that my students express in discussion. Since this is done in a safe environment and in a kind manner, I allow my students to reflect about their own mental processes and model the kind of thinking they can use outside the classroom.</p>
 <p>I also seek to build critical reading and writing skills in my students through scaffolded writing assignments. Whether it was through giving multiple, smaller writing assignments or by having students submit multiple pieces of a larger term paper one at a time to get review, I ensure that any writing assignment is not simply forgotten after it is turned in, but rather that students can use my feedback and discussions about writing with their peers to improve their proficiency. For instance, I set aside a class in my “Ancient Greek and Roman Medicine” course to discuss students’ writing. I noticed that the students tended to simply summarize material (rather than bringing in their own analysis) and use emotive language (rather than presenting their argument in a dispassionate way). After going through some examples together, discussing their impact on the reader, and working in small groups to workshop their own writing, I saw a significant improvement in the students’ work. Their writing was clearer, they felt more confident writing about their own ideas, and they understood the impact of appropriate language in their writing.</p>
-<p>While pursuing my PhD at UCLA, I have taught and been a teaching assistant in eight courses so far, and I will continue teaching throughout the next two years. One aspect of teaching a varied roster of courses that has struck me is how, despite the differences in student backgrounds and subject material, I can always find ways to work with students who are eager to find ways of applying what they are learning to today’s world. Indeed, facilitating conversations and discussions about connections between the ancient and the modern world are some of the most enriching classes that I’ve taught. I taught a group of political science undergraduates in “Invention of Democracy,” students from a variety of medical and STEM fields in “Ancient Greek and Roman Medicine,” and philosophy students in “History of Greek Philosophy.” I used the opportunities of teaching these multi-disciplinary groups to promote a class culture of cooperation and interdisciplinarity, which helps all participants, including myself, think more critically about the subject material. While I was more knowledgeable about the classical world, these students often contributed their own ideas from their own disciplines about modern democracy, medical practices, contemporary philosophy, etc. I’ve taken this group-centered—rather than instructor-centered—approach and applied it across all the courses I teach. As a result, students feel empowered in their own capacity as learners and knowers and find much more utility and enlightenment in their learning about the classical world.</p>
-<p>For the upcoming academic year, I am designing an undergraduate course on ancient women philosophers, such as Perictione, Hypatia, Sosipatra, Macrina, etc. I am particularly looking forward to teaching this course, as it presents an opportunity to reflect on the classical canon and the voices that are generally excluded from it. When I’ve led discussions on Sappho and Sulpicia in the past, students have always been very excited to find a female voice amidst the overwhelmingly male world in Classics, and they have been more willing to spend more time analyzing each word left behind by these women. Finding ways for our students (and ourselves) to reclaim the voices of suppressed and minoritized groups in the classical world is an important responsibility for the instructor in classics. However morally flawed the Greeks and Romans were, our presentation of them as “classical”—somehow fundamental and inspirational for our current societies and nations—can be jarring for the many individuals who are <em>not </em>generally represented in the classical record, or who were seen as “less than.” The biggest single group of such people must be women, and I believe it is important for us as classicists to seek out opportunities to include minoritized groups in meaningful and academically responsible ways in the classical world.</p>
-<p>Teaching is a fundamental part of our academic work, as it is the clearest way that we can engage others in our research. I believe that we have a responsibility to help our students learn to think, read, and write critically as they move into their various professions and throughout their life. I also think that an understanding of the classical world is an important framework for our students to conceptualize the world around them, which we can help them to understand through our teaching.</p>
+<p>While pursuing my PhD at UCLA, I have taught and been a teaching assistant in courses ranging from “Beginning Greek” to “Invention of Democracy” and I will continue teaching throughout the next two years. One aspect of teaching a varied roster of courses that I emphasize is, despite the differences in student backgrounds and subject material, exploring ways to work with students who are eager to find ways of applying what they are learning to today’s world. Indeed, facilitating conversations and discussions about connections between the ancient and the modern world are some of the most enriching classes that I have taught. I taught a group of political science undergraduates in “Invention of Democracy,” students from a variety of medical and STEM fields in “Ancient Greek and Roman Medicine,” and philosophy students in “History of Greek Philosophy.” I used the opportunities of teaching these multi-disciplinary groups to promote a class culture of cooperation and interdisciplinarity, which helps all participants, including myself, think more critically about the subject material. While I was more knowledgeable about the classical world, these students often contributed their own ideas from their own disciplines about modern democracy, medical practices, and contemporary philosophy. I have taken this student-centered—rather than instructor-centered—approach and applied it across all the courses I teach. As a result, students feel empowered in their own capacity as learners and knowers and find a greater connection and continuity between the classical and the modern world.</p>
+<p>For the upcoming academic year, I am designing an undergraduate course on ancient women philosophers, including Perictione, Hypatia, Sosipatra, and Macrina. I am particularly looking forward to teaching this course, as it presents an opportunity to reflect on the classical canon and the voices that are generally excluded from it. When I have led discussions on Sappho and Sulpicia in the past, students have always been very excited to find a female voice amidst the overwhelmingly male world in Classics, and they have been more willing to spend more time analyzing each word left behind by these women. Finding ways for our students (and ourselves) to reclaim the voices of suppressed and minoritized groups in the classical world is an important responsibility for the instructor in classics. However morally flawed the Greeks and Romans were, our presentation of them as “classical”—somehow fundamental and inspirational for our current societies and nations, even if such a label is ultimately outdated—can be jarring for the many individuals who are <em>not </em>generally represented in the classical record, or who were seen as “less than.” The biggest single group of such people is undoubtedly women, and I believe it is important for us as classicists to seek out opportunities to include minoritized groups in meaningful and academically responsible ways in the classical world.</p>
+<p>Teaching is a fundamental part of our academic work. I believe that we have a responsibility to help our students learn to engage critically with the world around them and reflect on their own values throughout their life. I also think that an understanding of the classical world is an important framework for our students to conceptualize the world around them, which we can help them to understand through our teaching.</p>
+<p><strong>Courses Taught</strong></p>
+<p>Latin 16: "Intensive Beginning Latin"</p>
+<p>Greek 16: "Intensive Beginning Greek"</p>
+<p>Classics 10: "Discovering the Greeks"</p>
+<p>Classics 20: "Discovering the Romans"</p>
+<p>Classics 48: "Ancient Medicine"</p>
+<p>Classics 51B: "Roman Art and Archaeology"</p>
+<p>Classics M125/ Political Science M112B: "Invention of Democracy"</p>
+<p>Philosophy 100A: "History of Greek Philosophy"</p>
             ]]>
         </content>
     </entry>
@@ -398,18 +314,6 @@
 <p>Danish: Native Speaking and Writing</p>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>Digital Projects</title>
-        <author>
-            <name>Zakarias Gram</name>
-        </author>
-        <link href="https://zdg5.github.io/academic-site/digital-projects.html"/>
-        <id>https://zdg5.github.io/academic-site/digital-projects.html</id>
-
-        <updated>2024-05-14T14:42:31-07:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
     <entry>
         <title>About</title>
